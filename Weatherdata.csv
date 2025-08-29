@@ -1,0 +1,11 @@
+,City,Country,Temperature (°C),Temperature (°F),Condition,Wind Speed (km/h),Humidity (%)
+0,Chennai,India,31.0,87.8,Mist,25.2,71
+1,Nagercoil,India,28.3,82.9,Mist,24.5,84
+2,Madurai,India,32.0,89.6,Partly cloudy,17.6,46
+3,Tirunelveli,India,31.0,87.7,Sunny,29.9,41
+4,Bangalore,India,23.2,73.8,Partly cloudy,33.5,89
+5,London,United Kingdom,21.4,70.5,Overcast,14.4,60
+6,New York,United States of America,19.4,66.9,Overcast,25.2,66
+7,Paris,France,27.3,81.1,Sunny,7.9,39
+8,Mumbai,India,26.3,79.3,Torrential rain shower,23.8,94
+9,Thrissur,India,28.1,82.6,Mist,7.9,79
